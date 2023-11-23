@@ -1,2 +1,2 @@
-# Blaze
+# Blaze ♨
 Blast smart contract library
